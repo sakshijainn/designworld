@@ -81,3 +81,33 @@ body
 {
     background-color: #A5B4FC;
 }
+
+footer
+{
+    padding-top: 1rem;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 0.5rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+
+footer ul
+{
+    list-style: none;
+    
+}
+footer ul li
+{
+    display: inline;
+    
+    padding-right: 0.5rem;
+}
+
+footer ul li a 
+{
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+}
