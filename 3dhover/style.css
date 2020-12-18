@@ -306,6 +306,10 @@ footer ul li a
     margin-top:1.5rem;
     border-radius: 10px;
 }
+.two .card .box
+{
+    border-radius: 10px;
+}
 
 
 }
