@@ -280,6 +280,12 @@ footer ul li a
 .two .card 
 {margin: 10px;}
 
+.text
+{
+    font-size: 1.5em;
+    text-align: center;
+}
+
 
 }
 
