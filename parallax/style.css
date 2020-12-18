@@ -95,4 +95,8 @@ body,html{
     {
         background-attachment: scroll;
     } */
+    h2 
+    {
+        font-size: 1rem;
+    }
 }
