@@ -73,15 +73,15 @@ body
 
 .two a , .three a 
 {
-    background-color: #eec0c6;
-background-image: linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%);
-
+    text-decoration: none;
     color:black;
 }
 
 .three 
 {
-    background-color: #8B5CF6;
+    background-color: #eec0c6;
+background-image: linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%);
+
 }
 
 footer
@@ -127,7 +127,7 @@ footer ul li a
 
     footer ul li 
     {
-        padding-left: 0.2rem;
+        padding-right: 0.2rem;
     }
 
     footer ul li a
