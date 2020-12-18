@@ -105,6 +105,7 @@ footer ul li
     display: inline;
     
     padding-right: 0.5rem;
+    
 }
 
 footer ul li a 
@@ -123,5 +124,10 @@ footer ul li a
     .image-container
     {
         padding: 1rem;
+    }
+
+    footer ul li a
+    {
+        font-size: 0.4rem;
     }
 }
