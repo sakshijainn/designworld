@@ -114,7 +114,7 @@ footer ul li a
     font-weight:bold;
 }
 
-@media and (max-width:568px)
+@media screen  and (max-width:568px)
 {
     .image-container .image 
     {
