@@ -95,8 +95,8 @@ body,html{
     {
         background-attachment: scroll;
     } */
-    h2 
+    .ptext .border
     {
-        font-size: 1rem;
+        padding: 10px;
     }
 }
