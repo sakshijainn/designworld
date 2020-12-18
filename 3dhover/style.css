@@ -190,7 +190,7 @@ body
 background-image: linear-gradient(315deg, #9fa4c4 0%, #9e768f 74%);
 
 
-    transform: translateZ(100px)
+    transform: translateZ(100px);
 }
 
 .two .card .box .contentBx div h2
