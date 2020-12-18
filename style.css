@@ -126,6 +126,11 @@ footer ul li a
         padding: 1rem;
     }
 
+    footer ul li 
+    {
+        padding-right: 0.35rem;
+    }
+
     footer ul li a
     {
         font-size: 0.76rem;
