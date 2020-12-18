@@ -310,6 +310,14 @@ footer ul li a
 {
     border-radius: 10px;
 }
+.two .card .box .imgBx{
+    border-radius: 10px;
+}
+
+.two .card .box .imgBx .img
+{
+    border-radius: 10px;
+}
 
 
 }
