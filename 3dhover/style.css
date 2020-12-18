@@ -260,7 +260,7 @@ footer ul li a
     .image-container .image 
 {
     max-width: 200px;
-    
+    padding-right: 1rem;
    margin: 0 auto;
 }
 
