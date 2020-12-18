@@ -259,8 +259,8 @@ footer ul li a
     }
     .image-container .image 
 {
-    max-width: 400px;
-    display: block;
+    max-width: 200px;
+    
    margin: 0 auto;
 }
 
