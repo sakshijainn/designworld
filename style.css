@@ -113,3 +113,15 @@ footer ul li a
     color:black;
     font-weight:bold;
 }
+
+@media and (max-width:568px)
+{
+    .image-container .image 
+    {
+        max-width: 400px;
+    }
+    .image-container
+    {
+        padding: 1rem;
+    }
+}
